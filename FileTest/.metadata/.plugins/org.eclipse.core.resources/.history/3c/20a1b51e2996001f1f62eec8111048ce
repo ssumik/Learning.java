@@ -1,0 +1,11 @@
+import java.io.File;
+
+public class FileManeger {
+    public void addFile(String fileName){
+        try{
+    ){
+
+            }
+        }
+    }
+}

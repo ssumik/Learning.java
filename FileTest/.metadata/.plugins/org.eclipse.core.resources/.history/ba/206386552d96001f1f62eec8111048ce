@@ -1,0 +1,30 @@
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class FileManeger {
+	public void addFile(String fileName) {
+		File file = new File("/home/joao/Documentos/workspace/FileTest/FilesTest/out/",fileName + ".csv");
+		try {
+			if (file.createNewFile()) {
+				System.out.println("done");
+			}else {
+				System.out.println("Couldn't create file.");
+			}
+		}
+		catch(IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public void addContent(String content) {
+		try {
+			FileWriter fileWriter = new FileWriter(content);
+			System.out.println("content added.");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+}

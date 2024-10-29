@@ -1,0 +1,15 @@
+public class Program {
+    public static void main(String[] args) {
+    	Product product = new Product("TV", 200.00,1);
+
+    	Product product1 = new Product("PC", 2000.00,2);
+
+    	Product product2 = new Product("CAR", 20000.00,10);
+        FileManeger file = new FileManeger();
+        file.setFileName("test4");
+        file.addFile();
+        file.addContent(product.toString());
+        file.addContent(product1.toString());
+        file.addContent(product2.toString());
+    }
+}

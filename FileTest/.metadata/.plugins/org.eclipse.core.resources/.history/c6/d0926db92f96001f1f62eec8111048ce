@@ -1,0 +1,7 @@
+public class Program {
+    public static void main(String[] args) {
+    	Product product = new Product("TV", 200.00,1);
+        FileManeger file = new FileManeger();
+        file.addFileWithContent("testWithContent", product.toString());
+    }
+}
