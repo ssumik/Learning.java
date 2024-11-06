@@ -1,12 +1,10 @@
 package br.org.catolicasc.banco.exercicios;
 
-import java.util.Scanner;
-
 public class TestaSplit {
 
 	public static void main(String[] args) {
 		
-		String frase = "Socorram-me, subi no ônibus em Marrocos";
+		String frase = "Socorram-me, subi no ï¿½nibus em Marrocos";
 		
 		String[] split = frase.split(" ");
 		
