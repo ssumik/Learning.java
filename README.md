@@ -5,7 +5,6 @@ I try to apply every new concept that I learn into new programs, to make it easi
 
 - [ContractManager](https://github.com/ssumik/Learning.java/tree/main/ContractManager): composition
 - [ProductManager](https://github.com/ssumik/Learning.java/tree/main/ProductManager): composition
-- [OrderManager](https://github.com/ssumik/Learning.java/tree/main/OrderManager): composition
 - [EmployeeType](https://github.com/ssumik/Learning.java/tree/main/EmployeeType): heritage and polymorphism
 - [Enumeracoes](https://github.com/ssumik/Learning.java/tree/main/Enumeracoes): enumeration
 - [FileTest](https://github.com/ssumik/Learning.java/tree/main/FileTest): creating files
