@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div> <br>
+
 A place where I store all the codes I used to learn something in JAVA. Feel free to check it!
 ### About the repository:
 I try to apply every new concept that I learn into new programs, to make it easier to navigate there's a list right below with the concept I applied:
