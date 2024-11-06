@@ -28,6 +28,7 @@ replay_pid*
 .vscode/
 .project
 .classpath
+.settings
 
 # Diretórios de compilação
 /bin/
