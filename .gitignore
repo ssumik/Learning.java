@@ -29,6 +29,7 @@ replay_pid*
 .project
 .classpath
 .settings
+*module-info.java
 
 # Diretórios de compilação
 /bin/
